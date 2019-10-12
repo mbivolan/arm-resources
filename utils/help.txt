@@ -1,0 +1,2 @@
+setup: Prepares the environment for build/test
+    basic: Basic packages instalation
